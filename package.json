@@ -61,5 +61,11 @@
   "browserslist": "extends @sanity/browserslist-config",
   "engines": {
     "node": ">=20.19 <22 || >=22.12"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Halanizi/sanity-plugin-google-photos.git"
+  },
+  "bugs": "https://github.com/Halanizi/sanity-plugin-google-photos/issues",
+  "homepage": "https://github.com/Halanizi/sanity-plugin-google-photos#readme"
 }
