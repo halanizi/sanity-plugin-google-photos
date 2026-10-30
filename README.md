@@ -1,5 +1,7 @@
 # sanity-plugin-google-photos
 
+[![npm version](https://img.shields.io/npm/v/sanity-plugin-google-photos.svg)](https://www.npmjs.com/package/sanity-plugin-google-photos)
+
 Pick photos from Google Photos, including your albums, in Sanity Studio image fields.
 
 The plugin adds **Google Photos** to the image field's **Select** menu. You sign in with Google, choose a photo in Google's own picker, and the photo is uploaded into your dataset as a normal Sanity image asset. Your frontend doesn't need any changes.
